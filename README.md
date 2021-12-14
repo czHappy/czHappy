@@ -39,7 +39,6 @@
         <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_apple_mac_65.png">
-        
     </div>
 <br>
 
@@ -47,9 +46,7 @@
 
 </br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czHappy&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czHappy&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -60,5 +57,3 @@
 &nbsp; <a href="https://www.linkedin.com/in/zhen-cheng-587897227/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:czhappy1998@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-⭐️ From [czHappy](https://github.com/czHappy)
