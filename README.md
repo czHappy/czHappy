@@ -12,11 +12,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- ⚡ &nbsp; C++ | Python | Java | C# | HTML | CSS 
+- ⚡ &nbsp; C++ | Python | Java | C# | HTML | bash
 - 🌐 &nbsp; Torch | OpenCV ｜Tensorflow
 - 🚀 &nbsp; Algorithm | ML/DL | 
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; VS Code | PyCharm | XCode | Eclipse | Git
+- 🔧 &nbsp; VS Code | PyCharm | XCode |  Eclipse | Git | CMake
 - 🖥 &nbsp; Linux | Windows | Mac
 <div>
         &nbsp;
@@ -25,7 +25,7 @@
         <img height="40" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+        <img height="40" src="https://cdn.icon-icons.com/icons2/350/PNG/512/bash_36261.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png">
@@ -34,7 +34,7 @@
         <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png">
-        <img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png">
+        <img height="38" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cmake_logo_icon_169379.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png">
         <img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
