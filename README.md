@@ -14,7 +14,7 @@
 
 - ⚡ &nbsp; C++ | Python | Java | C# | HTML | bash
 - 🌐 &nbsp; Torch | OpenCV ｜Tensorflow
-- 🚀 &nbsp; Algorithm | ML/DL | 
+- 🚀 &nbsp; Algorithm | ML/DL | HPC
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; VS Code | PyCharm | XCode |  Eclipse | Git | CMake
 - 🖥 &nbsp; Linux | Windows | Mac
