@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Computer Vision in 5G & Multimedia laboratory in BUPT.
-- 🎓 &nbsp; Studying Computer Science, Programming, Deep Learning, Mechine Learning.
-- 💼 &nbsp; Algorithm Development Engineer.
+- 🎓 &nbsp; Studying Computer Science, Programming, Deep Learning, Mechine Learning. Now I'm focusing on HPC.
+- 💼 &nbsp; Algorithm Development/High Performance Computing.
 - 🌱 &nbsp; Enthusiast in software engineering and artificial intelligence, like to use interesting and powerful AI algorithms in software systems.
 - 🕹 &nbsp; Movie, Chess, Pingpong, Fishing, Video Games...
 - 📙 &nbsp;  DO IT NOW, YOUNG MAN. 
@@ -14,7 +14,7 @@
 
 - ⚡ &nbsp; C++ | Python | Java | C# | HTML | bash
 - 🌐 &nbsp; Torch | OpenCV ｜Tensorflow
-- 🚀 &nbsp; Algorithm | ML/DL | 
+- 🚀 &nbsp; Algorithm | ML/DL | HPC
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; VS Code | PyCharm | XCode |  Eclipse | Git | CMake
 - 🖥 &nbsp; Linux | Windows | Mac
